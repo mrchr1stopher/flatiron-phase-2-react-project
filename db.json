@@ -1,0 +1,17 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "english": "Dog",
+      "image": "http://yesofcorsa.com/wp-content/uploads/2017/09/Australian-Cattle-Dog-Photo1.jpg",
+      "spanish": "Perro"
+    },
+
+    {
+      "id": 2,
+      "english": "Cat",
+      "image": "https://wallpaperaccess.com/full/275902.jpg",
+      "spansih": "Gato"
+    }
+  ]
+}
