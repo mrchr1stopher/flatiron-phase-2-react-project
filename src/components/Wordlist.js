@@ -1,10 +1,9 @@
 import React from "react";
-import { Route, Switch } from "react-router-dom";
 
-function ShowCards() {
+function Wordlist() {
   return (
     <div>
-      <h1>Cards</h1>
+      <h1>Wordlist</h1>
     </div>
   );
 }
